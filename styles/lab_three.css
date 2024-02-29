@@ -1,0 +1,15 @@
+.card {
+    width: 100%;
+    max-width: 640px; /* Adjust max-width as needed */
+    margin: 0 auto;
+    position: relative;
+  }
+
+  .card-content {
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+
+  .header, .subheader, .paragraph {
+    margin: 0;
+  }
